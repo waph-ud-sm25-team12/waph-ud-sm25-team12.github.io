@@ -38,7 +38,7 @@
 
 ### Index Page on Team Domain
 ![Team Index Page](team_index_page.png)
-
+![Ryan Team Index Page](Figure 1-index.jpg)
 ---
 
 ## Sprint 0 Contribution Summary
