@@ -34,7 +34,7 @@
 ### Login System Working (on HTTPS domain)
 ![Login Page Anvitha](Anvitha_login_page.png)
 ![Login Page Neeraj](Neeraj_login_page.png)
-![Login Page Ryan](Ryan_login_page.png)
+![Login Page Ryan](Ryan_login_page.jpg)
 
 ### Index Page on Team Domain
 ![Team Index Page](team_index_page.png)
