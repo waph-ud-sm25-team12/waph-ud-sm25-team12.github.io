@@ -12,7 +12,7 @@
 |--------------------|-------------------------|----------------------|--------------------------------------------------------------|
 | Anvitha Battineni  | Team Lead, Frontend Dev | battinenia1          | [Project 1 Homepage](https://battinenia1.github.io/) |
 | Neeraj Akhnoor     | Backend Developer        | akhnoorn1            | [Project 1 Homepage](https://akhnoorn1.github.io)   |
-| Ryan Cheng         | Security Analyst         | 4chengr              | [Project 1 Homepage]     |
+| Ryan Cheng         | Security Analyst         | 4chengr              | [Project 1 Homepage](https://4chengr.github.io)     |
 
 ---
 
@@ -34,6 +34,7 @@
 ### Login System Working (on HTTPS domain)
 ![Login Page Anvitha](Anvitha_login_page.png)
 ![Login Page Neeraj](Neeraj_login_page.png)
+![Login Page Ryan](Ryan_login_page.png)
 
 ### Index Page on Team Domain
 ![Team Index Page](team_index_page.png)
@@ -48,7 +49,8 @@
 - **Neeraj Akhnoor** (Backend Developer):  
   Created the MySQL database and user, wrote SQL scripts for schema and data, and tested PHP-MySQL login connectivity.Configured Apache for HTTPS, validated SSL placement, and reviewed the PHP login code for security. 
 
-- **Ryan Cheng** (Security Analyst):  
+- **Ryan Cheng** (Security Analyst):
+  Enhanced security by implementing secure session configuration, added a sample user to the database, improved the login form to include a real-time digital clock functionality and server-side timestamp display, enhanced the team's basic form by adding HTML structure, JS timing features, etc. 
   
 
 ---
