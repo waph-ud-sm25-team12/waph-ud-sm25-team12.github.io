@@ -19,6 +19,7 @@ if (!isset($_SESSION["authenticated"])) {
         New Password: <input type="password" name="new_password" required><br>
         Confirm Password: <input type="password" name="confirm_password" required><br>
         <button type="submit">Update Password</button>
+        <a href="profile.php">Back to Profile</a>
     </form>
 </body>
 </html>
