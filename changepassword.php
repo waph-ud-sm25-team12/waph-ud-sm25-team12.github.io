@@ -7,6 +7,15 @@ if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
     exit();
 }
 
+// ✅ CSRF token check
+if (!isset($_POST['csrf_token']) || $_POST['csrf_token'] !== $_SESSION['csrf_token']) {
+    echo "<script>
+            alert('CSRF token validation failed!');
+            window.location.href = 'changepasswordform.php';
+          </script>";
+    exit();
+}
+
 $username = $_SESSION['username'];
 $role = $_SESSION['role'];
 
