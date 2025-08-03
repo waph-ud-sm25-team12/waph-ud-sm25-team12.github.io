@@ -54,3 +54,78 @@
   
 
 ---
+
+
+# WAPH Team Project – Sprint 1 Submission
+
+**Team Number**: 12  
+**Sprint 0 Date**: August 3, 2025  
+**Project Topic**: Sprint 1
+
+Duration 07/30/2025 - 08/03/2025
+
+Complected Tasks:
+
+  - Created MySQL table schema for users and posts. Sample data was also inserted in the database.
+  - Wrote secure user registration form with validation (registration.php).
+  - Built login system with session authentication for logged-in users (session_auth.php).
+  - Allowed users to change their password (changepassword.php, changepasswordform.php).
+  - User can now edit their profile: name, email, and phone (editprofile.php and editprofilesuccess.php).
+  - Created view posts for the logged in user (view_posts.php).
+  - Structured frontend with links to all features from index.php and index.html.
+  - Wrote SQL scripts to create team database (database-account.sql and database-data.sql).
+  - Uploaded screenshots that show the functional pages (login, profile, registration, posts).
+  - Checked host and database are working with HTTPS on Apache web server.
+
+Contribution:
+
+- **Anvitha Battineni** (Team Lead, Frontend Developer):  
+      Member 1 – 🟩 7 commits, ⏱️ 10 hours
+        - Took lead on all the major technical development tasks, including:
+        - MySQL database and schema
+        - Registration and login
+        - Edit profile
+        - View posts
+        - SQL scripts and server-side PHP integration
+
+- **Neeraj Akhnoor** (Backend Developer): 
+      (Member 2) – 🟨 3 commits, ⏱️ 5 hours
+        - Contributed to testing and project management and was partially responsible for backend development on a few specific tasks:
+        - Took screenshots and documented page functionality
+        - Also manually tested the flows on multiple users
+        - Implemented changepasswordform.php and changepassword.php
+        - Verified visual and backend integration on the password update"
+
+Sprint Retrospection:
+
+  What went well:
+
+    The team worked well together and balanced the technical/non-technical division of work.
+
+    The team managed to complete tasks by the deadline and implement the main aspects of the projects (login, registration, edit profile, etc.)
+
+    The secure database access and PHP integration was fairly smooth.
+
+    Neeraj helped facilitate the testing and contributed screenshots for documentation which was beneficial in validating the completed sprint work.
+
+    The change password functionality was developed collaboratively and pass the tests as defined by manual testing.
+
+  Challenges faced:
+
+    Some lost time early in the sprint with file organization not being clear and inconsistent form naming conventions.
+
+    The change password logic required testing in a back-and-forth fashion because of session management concerns.
+
+    There was some coordination involved with the technical and non-technical work streams being separate, we needed to have more sync meetings.
+
+    There were variable commmit frequency (some members were pushing commits more often) which made it slightly harder to assess shared progress in real-time.
+
+  Ideas for improvements for the next sprint:
+
+    Schedule a short team-sync during the sprint to provide visibility and communication.
+
+    Implement using standard file naming conventions and file-PHP routing as early as possible in the sprint.
+
+    Encouraging all members to push more frequent commits would help in portions of code reviews and help to minimize merge issues.
+
+    It would also be beneficial to start the UI layout design drafts early and break into smaller deliverables to distribute workload.
