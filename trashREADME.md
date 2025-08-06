@@ -95,6 +95,17 @@ Contribution:
         - Also manually tested the flows on multiple users
         - Implemented changepasswordform.php and changepassword.php
         - Verified visual and backend integration on the password update"
+        
+- **Ryan Cheng** (Security Analyst):
+       Member 3
+        - Enhanced application security and user interface design, focusing on:
+        - Added CSRF protection to registration forms with token validation
+        - Implemented comprehensive input validation and sanitization
+        - Added HTML5 client-side validation with pattern matching for usernames and emails
+        - Reformatted and redesigned the UI to create a more professional, modern appearance
+        - Enhanced form security with server-side validation and error handling
+        - Implemented password confirmation matching and security best practices
+    -More details on [4ChengR WaphTeam](https://github.com/4chengr/waph-teamproject/)
 
 Sprint Retrospection:
 
